@@ -49,14 +49,6 @@ If you enjoy my projects or tools, you can support me here:
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=macokay&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macokay&layout=compact&theme=transparent)
-
----
-
 ## Let's Connect
 
 If you enjoy **AI, automation, self-hosting, and building useful tools**, we will probably get along just fine.
