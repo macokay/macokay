@@ -1,54 +1,18 @@
-# Hey, I'm Mac O Kay 👋
+<p align="center">
+  <img src="header.svg" width="100%" alt="Hey, I'm Mac O Kay. Open source, local first, self-hosted.">
+</p>
 
-💻 IT Consultant  
-🤖 Automation & AI Enthusiast  
-🏠 Homelab Builder  
-🔐 Security-minded Technologist  
+## Principles
 
----
+- **Sharing is caring.**<br>
+  Open code gets fixed, reused and extended by people who would never have found it otherwise. I learn as much from reading what others share as anyone might learn from my work. I don't share to get something back. It's how a community grows, and everyone ends up better for it.
 
-## About Me
+- **Local over cloud.**<br>
+  Software should run on hardware I control, keep data at home, and keep working when a service disappears or the internet goes down. Local means faster responses, no subscription that can change overnight, and no company deciding what happens to my data. The cloud has its uses, but it shouldn't be the only place things work.
 
-Hi, I'm **Mac O Kay**.
-
-By day I work as an **IT Consultant**, and by nature I'm a massive tech nerd.
-
-I enjoy building tools, integrations, and automations that I feel the world is missing.
-
-My interests mainly revolve around:
-
-- Artificial Intelligence
-- Automation & workflows
-- Smart home systems
-- Self-hosted services
-- Homelabs
-- Security & infrastructure
-
-I also care a lot about **making complex technology understandable**, and I often try to break technical topics down so more people can follow along.
-
----
-
-## What I Like Building
-
-🔹 AI powered tools  
-🔹 Automation workflows  
-🔹 Smart home integrations  
-🔹 Self-hosted platforms  
-🔹 Developer utilities  
-🔹 Security focused tooling  
-
----
+- **Self-hosted over big tech.**<br>
+  I pick open source and self-hosted options where it's reasonable. Open tools can be inspected, moved and kept alive by the community, even after the original author moves on. I'm pragmatic about it, and I still use big platforms where the people are, like GitHub.
 
 ## Support My Work
 
-If you enjoy my projects or tools, you can support me here:
-
-<a href="https://buymeacoffee.com/macokay?status=1">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee">
-</a>
-
----
-
-## Let's Connect
-
-If you enjoy **AI, automation, self-hosting, and building useful tools**, we will probably get along just fine.
+If you enjoy my projects or tools, you can support me here: <a href="https://buymeacoffee.com/macokay?status=1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee" align="center"></a>
